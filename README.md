@@ -1,1 +1,1 @@
-# Full Türkçe, Başarılı Discord Botu $ClawBot
+# Full Türkçe, Başarılı Discord Botu ClawBot
